@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IlyaG96
-- 👀 I’m interested in Python, Python Web Programming
+- 👀 I’m interested in Python, Python Web Development
 - 🌱 I’m currently learning python, html5, css3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ilyag_96@icloud.com
