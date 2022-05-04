@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @IlyaG96
-- 👀 I’m interested in Python, Python Web Development
-- 🌱 I’m currently learning python, html5, css3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ilyag_96@icloud.com
+<h1 align="center">Hi there, I'm <a href="https://t.me/ivve_g">Ilya</a> 
+ <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+ <h3 align="center"><a href="https://dvmn.org">Dvmn</a> student, Python programmer</h3>
+ <br>
 
-<!---
-IlyaG96/IlyaG96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IlyaG96&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IlyaG96&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IlyaG96&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IlyaG96&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IlyaG96&theme=solarized_dark)
