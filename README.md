@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/ivve_g">Ilya</a> 
- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://t.me/ivve_g">Ilya</a> </h1>
  <h3 align="center"><a href="https://dvmn.org">Dvmn</a> student, Python programmer</h3>
  <br>
 
